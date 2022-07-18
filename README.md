@@ -6,7 +6,7 @@ Hi I'm Isaac. I'm a student at Western Kentucky University currently going for m
 
 - 📫 How to reach me: **isaaclockwood618@gmail.com**
 
-- 📄 Know about my experiences: [Resume]([Resume](https://i.postimg.cc/1RrLHrGK/Isaac-Lockwood-Resume-1.png))
+- 📄 Know about my experiences: [Resume](https://i.postimg.cc/1RrLHrGK/Isaac-Lockwood-Resume-1.png)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

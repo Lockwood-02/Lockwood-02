@@ -2,11 +2,11 @@
 Hi I'm Isaac. I'm a student at Western Kentucky University currently going for my Masters Degree in Computer Science. I love Front-End design and creating websites.
 <h2>I'm a passionate front-end developer from Kentucky</h2>
 
-- 👨‍💻 All of my projects are available at [https://personal-website-lockwood-02.vercel.app/](https://personal-website-lockwood-02.vercel.app/)
+- 👨‍💻 All of my projects are available at [my personal website](https://personal-website-lockwood-02.vercel.app/)
 
-- 📫 How to reach me **isaaclockwood618@gmail.com**
+- 📫 How to reach me: **isaaclockwood618@gmail.com**
 
-- 📄 Know about my experiences [https://i.postimg.cc/1RrLHrGK/Isaac-Lockwood-Resume-1.png](Resume)
+- 📄 Know about my experiences: [Resume]([Resume](https://i.postimg.cc/1RrLHrGK/Isaac-Lockwood-Resume-1.png))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

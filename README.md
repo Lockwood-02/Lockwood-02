@@ -1,4 +1,5 @@
 <h1>Isaac Lockwood—@lockwood-02</h1>
+Hi I'm Isaac. 
 <h3>A passionate frontend developer from Kentucky</h3>
 
 - 👨‍💻 All of my projects are available at [https://personal-website-lockwood-02.vercel.app/](https://personal-website-lockwood-02.vercel.app/)

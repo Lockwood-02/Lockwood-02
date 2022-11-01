@@ -1,6 +1,6 @@
 <h1>Isaac Lockwood—@lockwood-02</h1>
 Hi I'm Isaac. I'm a student at Western Kentucky University currently going for my Masters Degree in Computer Science. I love Front-End design and creating websites.
-<h2>I'm a passionate front-end developer from Kentucky</h2>
+<h2>I'm a passionate software developer from Kentucky</h2>
 
 - 👨‍💻 All of my projects are available at [my personal website](https://personal-website-lockwood-02.vercel.app/)
 

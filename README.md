@@ -28,6 +28,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Lockwood-02/Lockwood-02/output/snake.svg" alt="Snake animation" />
+
 
 ###
